@@ -1,6 +1,8 @@
 ﻿{
   "dependencies": {
-    "Nerdbank.GitVersioning": "1.5.46"
+    "Nerdbank.GitVersioning": "1.5.46",
+    "xunit": "2.2.0",
+    "xunit.runner.visualstudio": "2.2.0"
   },
   "frameworks": {
     "net462": {}
